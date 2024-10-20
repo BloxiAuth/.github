@@ -1,5 +1,5 @@
 
-# ![BloxiAuth Logo]https://i.ibb.co/9vDNBzf/bloxauth.jpg)  <!-- Replace with your logo URL -->
+# ![BloxiAuth Logo](https://i.ibb.co/9vDNBzf/bloxauth.jpg) 
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-green.svg) ![GitHub stars](https://img.shields.io/github/stars/BloxiAuth?style=social) ![GitHub forks](https://img.shields.io/github/forks/BloxiAuth?style=social) ![GitHub issues](https://img.shields.io/github/issues/BloxiAuth) ![GitHub pull requests](https://img.shields.io/github/issues-pr/BloxiAuth)
 
