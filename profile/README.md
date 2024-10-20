@@ -1,30 +1,114 @@
+<div align="center">
+  
+# BloxiAuth
 
-# ![BloxiAuth Logo](https://i.ibb.co/9vDNBzf/bloxauth.jpg) 
+![BloxiAuth Logo](https://i.ibb.co/9vDNBzf/bloxauth.jpg)
 
-![GitHub license](https://img.shields.io/badge/license-MIT-green.svg) ![GitHub stars](https://img.shields.io/github/stars/BloxiAuth?style=social) ![GitHub forks](https://img.shields.io/github/forks/BloxiAuth?style=social) ![GitHub issues](https://img.shields.io/github/issues/BloxiAuth) ![GitHub pull requests](https://img.shields.io/github/issues-pr/BloxiAuth)
+### Advanced Licensing Solutions for Roblox Developers
 
-## 🏢 Company Overview
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub Stars](https://img.shields.io/github/stars/BloxiAuth?style=flat&logo=github)](https://github.com/BloxiAuth/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/BloxiAuth?style=flat&logo=github)](https://github.com/BloxiAuth/network)
+[![GitHub Issues](https://img.shields.io/github/issues/BloxiAuth?style=flat&logo=github)](https://github.com/BloxiAuth/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/BloxiAuth?style=flat&logo=github)](https://github.com/BloxiAuth/pulls)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-7289DA?style=flat&logo=discord)](https://discord.gg/bloxiauth)
 
-**BloxiAuth** is an innovative SaaS platform dedicated to providing secure and efficient licensing solutions for Roblox digital assets. Our mission is to empower developers with advanced tools to protect their creations and enhance monetization opportunities within the Roblox ecosystem.
+</div>
 
-## 🔑 Key Features
+## 🚀 Overview
 
-- **Licensing Solutions**:  
-  Create, manage, and revoke licenses for Roblox assets with support for multiple tiers, customizable parameters, and expiration dates.
+BloxiAuth is a cutting-edge SaaS platform revolutionizing how Roblox developers protect and monetize their digital assets. Our comprehensive suite of tools provides enterprise-grade licensing solutions while maintaining simplicity and ease of use.
 
-- **Security Features**:  
-  Advanced Lua obfuscation techniques to safeguard digital assets against theft and unauthorized use.
+## ✨ Key Features
 
-- **Version Control**:  
-  Robust management of script versions, enabling seamless switching between different asset versions.
+### 🔐 Advanced Licensing System
+- Multi-tier license management
+- Customizable parameters and constraints
+- Time-based licensing with automatic expiration
+- Instant license creation and revocation
 
-- **Analytics and Insights**:  
-  Gain insights on key usage to track and optimize licenses effectively.
+### 🛡️ Security First
+- Industrial-grade Lua obfuscation
+- Anti-tampering measures
+- Real-time security monitoring
+- Automatic threat detection
 
-- **Integration Capabilities**:  
-  Easy integration with platforms like Discord and Sellix for automation and enhanced sales strategies.
+### 📊 Analytics Dashboard
+- Comprehensive usage metrics
+- Revenue tracking
+- User behavior insights
+- Performance analytics
 
-## 📈 Our Commitment
+### 🔄 Version Control
+- Seamless version management
+- Rollback capabilities
+- Update distribution
+- Change logging
 
-We are committed to delivering high-quality, open-source solutions that meet the needs of Roblox developers. By fostering a collaborative community, we aim to continuously improve our offerings and ensure that our platform remains at the forefront of digital asset licensing.
+### 🤝 Integration & Automation
+- Discord webhook support
+- Sellix integration
+- API access
+- Automated workflows
 
+## 🛠️ Getting Started
+
+```lua
+-- Quick implementation example
+local BloxiAuth = require("BloxiAuth")
+
+local license = BloxiAuth.new({
+    key = "YOUR_LICENSE_KEY",
+    product = "YOUR_PRODUCT_ID"
+})
+
+license:validate(function(success)
+    if success then
+        print("License validated successfully!")
+    end
+end)
+```
+
+## 📚 Documentation
+
+Visit our [comprehensive documentation](https://docs.bloxiauth.com) to learn more about:
+- Implementation guides
+- API reference
+- Best practices
+- Security recommendations
+- Integration tutorials
+
+## 🌟 Why BloxiAuth?
+
+- **Reliable**: Built on robust infrastructure ensuring 99.9% uptime
+- **Secure**: Enterprise-grade security protecting your assets
+- **Scalable**: Grows with your business needs
+- **Supported**: Active community and dedicated support team
+
+## 🤝 Contributing
+
+We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for details on:
+- Code of Conduct
+- Development process
+- Pull request procedure
+- Style guidelines
+
+## 📬 Support
+
+- 📖 [Documentation](https://docs.bloxiauth.com)
+- 💬 [Discord Community](https://discord.gg/bloxiauth)
+- 📧 [Email Support](mailto:support@bloxiauth.com)
+- 🐛 [Issue Tracker](https://github.com/BloxiAuth/issues)
+
+## 📄 License
+
+BloxiAuth is [MIT licensed](LICENSE).
+
+---
+
+
+### Made with ❤️ by the BloxiAuth Team
+
+[Website](https://bloxiauth.com) • [Twitter](https://twitter.com/BloxiAuth) • [Blog](https://blog.bloxiauth.com)
+
+</div>
