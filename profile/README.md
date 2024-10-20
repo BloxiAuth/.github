@@ -95,10 +95,7 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for deta
 
 ## 📬 Support
 
-- 📖 [Documentation](https://docs.bloxiauth.com)
-- 💬 [Discord Community](https://discord.gg/bloxiauth)
-- 📧 [Email Support](mailto:support@bloxiauth.com)
-- 🐛 [Issue Tracker](https://github.com/BloxiAuth/issues)
+Workin on it.
 
 ## 📄 License
 
@@ -109,6 +106,6 @@ BloxiAuth is [MIT licensed](LICENSE).
 
 ### Made with ❤️ by the BloxiAuth Team
 
-[Website](https://bloxiauth.com) • [Twitter](https://twitter.com/BloxiAuth) • [Blog](https://blog.bloxiauth.com)
+[Website](https://bloxauth.rf.gd/register.php) 
 
 </div>
